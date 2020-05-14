@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl:
+url: "https://LimYujin.github.io"
+remote_theme: sylhare/Type-on-Strap
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
