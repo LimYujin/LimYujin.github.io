@@ -29,6 +29,7 @@ date:   2020-05-24
 &nbsp;&nbsp;&nbsp;&nbsp; 기여 방안<br>
 - 디스코드 버전이 업그레이드 되었을 때 호환성을 꾸준히 유지하게 하는 것<br>
 - 한글로도 사용이 가능하게끔 하는 것<br>
+ Link: <a href="https://github.com/Just-Some-Bots/MusicBot">https://github.com/Just-Some-Bots/MusicBot</a> 
 </p>
 
 <h1>팀 역할분담</h1>
